@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LikeStar.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>15DC80E86AFAFB730E2ACDA2C1A95B4C16693FD9</string>
+				<key>dateExpires</key>
+				<string>11/07/2020</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>HLQXPW8G4H.co.kr.creativesoft.LikeStarApp</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>HLQXPW8G4H</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>LikeStar.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>d57bd260-def5-4fc3-ab77-4e77784daaa5</string>
+				<key>name</key>
+				<string>iOS Team Inhouse Provisioning Profile: co.kr.creativesoft.LikeStarApp</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>HLQXPW8G4H</string>
+				<key>name</key>
+				<string>Creative Soft</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
