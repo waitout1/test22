@@ -13,14 +13,14 @@
 					<key>url</key>
 					<string>https://github.com/waitout1/test22/raw/master/res/LikeStar.ipa</string>
 				</dict>
-				
+
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
 				<string>co.kr.creativesoft.LikeStarApp</string>
 				<key>bundle-version</key>
-				<string>0.5.7</string>
+				<string>1.2.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
